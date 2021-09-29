@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\obj\Debug\netcoreapp3.1\Bottlesong.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\obj\Debug\netcoreapp3.1\Bottlesong.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\obj\Debug\netcoreapp3.1\Bottlesong.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\obj\Debug\netcoreapp3.1\Bottlesong.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\bin\Debug\netcoreapp3.1\Bottlesong.exe
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\bin\Debug\netcoreapp3.1\Bottlesong.deps.json
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\bin\Debug\netcoreapp3.1\Bottlesong.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\bin\Debug\netcoreapp3.1\Bottlesong.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\bin\Debug\netcoreapp3.1\Bottlesong.dll
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\bin\Debug\netcoreapp3.1\Bottlesong.pdb
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\obj\Debug\netcoreapp3.1\Bottlesong.dll
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\obj\Debug\netcoreapp3.1\Bottlesong.pdb
+C:\Users\opilane\source\repos\logitpe21\ForLoops\Bottlesong\obj\Debug\netcoreapp3.1\Bottlesong.genruntimeconfig.cache

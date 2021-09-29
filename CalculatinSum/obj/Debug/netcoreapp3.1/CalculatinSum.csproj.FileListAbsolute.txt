@@ -1,0 +1,12 @@
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\bin\Debug\netcoreapp3.1\CalculatinSum.exe
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\bin\Debug\netcoreapp3.1\CalculatinSum.deps.json
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\bin\Debug\netcoreapp3.1\CalculatinSum.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\bin\Debug\netcoreapp3.1\CalculatinSum.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\bin\Debug\netcoreapp3.1\CalculatinSum.dll
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\bin\Debug\netcoreapp3.1\CalculatinSum.pdb
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\obj\Debug\netcoreapp3.1\CalculatinSum.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\obj\Debug\netcoreapp3.1\CalculatinSum.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\obj\Debug\netcoreapp3.1\CalculatinSum.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\obj\Debug\netcoreapp3.1\CalculatinSum.dll
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\obj\Debug\netcoreapp3.1\CalculatinSum.pdb
+C:\Users\opilane\source\repos\logitpe21\ForLoops\CalculatinSum\obj\Debug\netcoreapp3.1\CalculatinSum.genruntimeconfig.cache
